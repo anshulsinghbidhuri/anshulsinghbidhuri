@@ -2,13 +2,13 @@
  <h1 align="center">Welcome To My GitHub</h1>
 <p>Hi, i'm Anshul Singh, a passionate MERN Stack Web Developer and a Java Developer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.<p/>
 <p>I want to work as fresher and use my creative skills and get a experience to improve myself and push my limits. If I get the opportunity to learn and develop my technical skills and make best use of it for the growth of organization and establishing myself and achieve goal of the organization with devotion and hard work.<p/>
-<img align="right" alt="Coding" width="400" hight="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt="Coding" width="400" hight="400" //src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshulsinghbidhuri&label=Profile%20views&color=0e75b6&style=flat" alt="anshulsinghbidhuri" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@anshulbidhuri04" target="blank"><img src="https://img.shields.io/twitter/follow/@anshulbidhuri04?logo=twitter&style=for-the-badge" alt="@anshulbidhuri04" /></a> </p>
 
-- 🌱 I’m currently learning **Java spring boot,react**
+- 🌱 I’m currently learning **Java spring boot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/anshulsinghbidhuri](https://github.com/anshulsinghbidhuri)
 
