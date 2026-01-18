@@ -58,6 +58,15 @@ I strongly believe that great software is achieved when quality, performance, an
 ## 📊 This Week I Spent My Time On
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 10 January 2026 - To: 17 January 2026
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ---
