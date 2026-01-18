@@ -49,9 +49,8 @@ I strongly believe that great software is achieved when quality, performance, an
 
 ---
 
-## 🕒 Coding Activity (WakaTime)
-
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ASB&layout=compact&theme=tokyonight)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anshulsinghbidhuri&show_icons=true&locale=en&layout=compact" alt="anshulsinghbidhuri" /></p>
