@@ -52,12 +52,13 @@ I strongly believe that great software is achieved when quality, performance, an
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 January 2026 - To: 18 January 2026
+From: 12 January 2026 - To: 19 January 2026
 
-Total Time: 43 mins
+Total Time: 56 mins
 
-JavaScript   4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.56 %
-Git          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+TypeScript   13 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.20 %
+JavaScript   4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.88 %
+Git          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
