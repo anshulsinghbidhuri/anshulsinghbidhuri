@@ -39,17 +39,17 @@ I strongly believe that great software is achieved when quality, performance, an
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 January 2026 - To: 21 June 2026
+From: 06 January 2026 - To: 22 June 2026
 
-Total Time: 25 hrs 38 mins
+Total Time: 26 hrs 29 mins
 
-TypeScript   9 hrs 18 mins         █████████░░░░░░░░░░░░░░░░   36.27 %
-JavaScript   8 hrs 22 mins         ████████░░░░░░░░░░░░░░░░░   32.66 %
-Java         3 hrs 42 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.48 %
-Gherkin      3 hrs 1 min           ███░░░░░░░░░░░░░░░░░░░░░░   11.78 %
-Bash         8 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
-HTML         5 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
-CLASS        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+TypeScript   9 hrs 18 mins         ████████▓░░░░░░░░░░░░░░░░   35.10 %
+JavaScript   8 hrs 43 mins         ████████▒░░░░░░░░░░░░░░░░   32.90 %
+Java         3 hrs 42 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.02 %
+Gherkin      3 hrs 31 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.32 %
+Bash         8 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+HTML         5 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+CLASS        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
